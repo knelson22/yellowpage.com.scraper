@@ -7,7 +7,7 @@
 
 
 $username = "karlscav";
-$password = "up0qM%H9lqGX";
+$password = "";
 $dbname = "karlscav_yp";
 
 
